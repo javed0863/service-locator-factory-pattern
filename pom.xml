@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.javedrpi</groupId>
 	<artifactId>service-locator-factory-pattern</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>service-locator-factory-pattern</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
